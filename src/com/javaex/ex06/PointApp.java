@@ -19,4 +19,11 @@ public class PointApp {
 
 }
 
+//p1과 p2는 주소가 다르기 때문에 false
+//				"
+//				"
+//p4는 p1과 같은 주소기 때문에 true
+//p1과 p2는 주소가 다르기 때문에 false
+//p4는 p1과 같은 주소기 때문에 true
 
+//기본적으로 Object 클래스(equals() 메소드를 포함 함)를 상위받았기 때문에 실행이 된다.

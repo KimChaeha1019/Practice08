@@ -11,6 +11,8 @@ public class Point {
 	}
 
 	//equals() 메소드를 작성하세요.
-
+	equals(){
+		
+	}
 	
 }
